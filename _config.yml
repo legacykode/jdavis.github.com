@@ -2,14 +2,14 @@ highlighter: rouge
 permalink: pretty
 markdown: kramdown
 
-title: Josh Davis
-name: Josh Davis' Personal Site
-url: https://joshldavis.com
+title: Legacy Kode
+name: Agung Setiawan' Personal Site
+url: https://legacykode.com
 feed: /atom.xml
 
-author: Josh Davis
+author: Agung Setiawan
 contact:
-    email: hello@joshldavis.com
+    email: com.agungsetiawan@gmail.com
 
 css:
     - /css/base.css

@@ -3,7 +3,7 @@ id: home
 layout: default
 title: Home
 description:
-    Writings by Josh Davis, a software engineer based out of Seattle, on programming,
+    Writings by Agung Setiawan, a software engineer based out of Jakarta, on programming,
     science, and engineering.
 ---
 

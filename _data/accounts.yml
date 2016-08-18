@@ -12,11 +12,11 @@ coinbase:
 
 facebook:
     name: Facebook
-    site: "https://www.facebook.com/joshd"
+    site: "https://www.facebook.com/agungsetiawanmu"
 
 github:
     name: GitHub
-    site: "https://github.com/jdavis"
+    site: "https://github.com/agungsetiawan"
 
 goodreads:
     name: Goodreads
@@ -41,7 +41,7 @@ kickstarter:
 
 linkedin:
     name: LinkedIn
-    site: "https://www.linkedin.com/in/joshualeedavis"
+    site: "https://www.linkedin.com/in/agung-setiawan-879a9649"
 
 npm:
     name: NPM
@@ -65,4 +65,4 @@ strava:
 
 twitter:
     name: Twitter
-    site: "https://twitter.com/HopefulJosh"
+    site: "https://twitter.com/agungsetiawanmu"
